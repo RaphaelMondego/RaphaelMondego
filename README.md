@@ -1,7 +1,7 @@
 ## Olá, eu sou o Raphael Mondego
 
-- 🔭 Trabalhando com front-end
-- 🌱 Estudando Javascrpit
+- 🔭 Trabalhando com programação
+- 🌱 Estudando Java
 - 😄 Pronouns: Ele/dele
 
 
