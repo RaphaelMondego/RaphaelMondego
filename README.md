@@ -1,8 +1,6 @@
 ## Olá, eu sou o Raphael Mondego
 
 - 🔭 Trabalhando com programação
-- 🌱 Estudando Java
-- 😄 Pronouns: Ele/dele
 
 
 ![Raphael GitHub stats](https://github-readme-stats.vercel.app/api?username=RaphaelMondego&show_icons=true&theme=dracula)
